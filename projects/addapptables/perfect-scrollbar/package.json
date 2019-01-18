@@ -1,0 +1,17 @@
+{
+  "name": "@addapptables/perfect-scrollbar",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": "^7.2.1",
+    "@angular/router": "^7.2.1",
+    "rxjs": "~6.3.3",
+    "perfect-scrollbar": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addapptables/perfect-scrollbar-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/addapptables/perfect-scrollbar-ui/issues"
+  }
+}

@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@addapptables/perfect-scrollbar": [
+        "dist/addapptables/perfect-scrollbar"
+      ],
+      "@addapptables/perfect-scrollbar/*": [
+        "dist/addapptables/perfect-scrollbar/*"
+      ]
+    }
   }
 }
