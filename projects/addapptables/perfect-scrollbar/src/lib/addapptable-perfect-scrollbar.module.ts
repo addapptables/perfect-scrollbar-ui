@@ -1,15 +1,12 @@
 import { NgModule } from '@angular/core';
-import { DynamicDirective } from './dynamic.directive';
 import { PerfectScrollbarDirective } from './perfect-scrollbar.directive';
 
 @NgModule({
     declarations: [
-        PerfectScrollbarDirective,
-        DynamicDirective
+        PerfectScrollbarDirective
     ],
     exports: [
-        PerfectScrollbarDirective,
-        DynamicDirective
+        PerfectScrollbarDirective
     ]
 })
 export class AddapptablePerfectScrollbarModule { }

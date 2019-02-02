@@ -2,7 +2,7 @@
 Utility for scroll browser
 
 ## Getting Started
-To get started, lets install the package thru npm:
+To get started, let's install the package through npm:
 
 ```
 npm i @addapptables/perfect-scrollbar perfect-scrollbar --S
